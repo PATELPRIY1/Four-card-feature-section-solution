@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/PATELPRIY1/Four-card-feature-section-solution.git)
+- Live Site URL:(https://patelpriy1.github.io/Four-card-feature-section-solution/)
 
 ## My process
 
